@@ -1,4 +1,4 @@
-# Carnival Ticket Purchasing Simulation
+# Welcome to the Carnival
 
 ## Description
 This project is part of my AP Computer Science A coursework.  
