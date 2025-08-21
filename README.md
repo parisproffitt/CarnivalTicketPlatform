@@ -1,4 +1,4 @@
-# Welcome to the Carnival
+# Carnival Ticket Purchasing Platform
 
 ## Description
 This project is part of my AP Computer Science A coursework.  
